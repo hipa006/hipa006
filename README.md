@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hibat Allah Hamidi
+#  Hibat Allah Hamidi
 ### **Full-Stack Developer & Tech Enthusiast**
 
 [![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
