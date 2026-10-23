@@ -37,7 +37,7 @@
 ### 📖 [Bookstore Web App](https://github.com/hipa006/bookstore)
 * Full-stack web application featuring category filtering, in-store pickup code generation, and an integrated Python Flask chatbot.
 
-### 🚗 [Auto Eddahby](https://github.com/hipa006/auto_eddahby)
+### 🚗 [véhicule casa](https://github.com/hipa006/auto_eddahby)
 * Car dealership and appointment management platform built with PHP, PDO, and MySQL.
 
 ### 🔎 [Desktop Web Scraper](https://github.com/hipa006/web_scraper)
